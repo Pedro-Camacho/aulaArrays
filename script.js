@@ -1,0 +1,1 @@
+const nomes=['pedro','clara', 'Pai', 'mae']
